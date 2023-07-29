@@ -11,4 +11,6 @@ Knowledge in the languages ​​and technologies below:
 
 <div> 
   <a href="https://www.linkedin.com/in/vitorneuber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div><br>
+
+![vitorneuber Status](https://github-readme-stats.vercel.app/api?username=vitorneuber&show_icons=true&theme=radical)
